@@ -2,8 +2,7 @@
 
 ## ❗Problemática
 
-El desperdicio de agua es un gran problema para la humanidad y nuestro medio ambiente. Cada día que pasa, este recurso se vuelve aún más escaso. Además, los efectos ambientales del desperdicio de agua son un gran problema en la agricultura. El desperdicio de agua puede provocar la erosión del suelo, cultivos con exceso de riego y gastos innecesarios. Al optimizar mejor el uso del agua, uno no solo está contribuyendo a la conservación de uno de los recursos más preciados de la naturaleza, sino que también puede producir cultivos más saludables, todo con menos agua.
-
+El desperdicio de agua es un gran problema para la humanidad y nuestro medio ambiente Cada día que pasa, este recurso se vuelve aún más escaso. Además, los efectos ambientales del desperdicio de agua son un gran problema en la agricultura. Al optimizar mejor el uso del agua, uno no solo está contribuyendo a la conservación de uno de los recursos más preciados de la naturaleza, sino tambien salva de gastos innecesarios.
 
 ## 💡Nuestra propuesta
 
