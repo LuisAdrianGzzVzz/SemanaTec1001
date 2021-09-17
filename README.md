@@ -31,16 +31,16 @@ Ahora hablando del mundo físico, se necesita una forma de recolectar los datos 
 ## 🎨Diseño
 
 ### Primeros pasos
-![iamgen](https://i.postimg.cc/SXHvLT9X/FS1.png)
-![iamgen](https://i.postimg.cc/2LD9M12r/FS2.png.png)
-![iamgen](https://i.postimg.cc/ph81sfQs/FS3.png)
+[![primeros_pasos_1](https://i.postimg.cc/SXHvLT9X/FS1.png)](https://github.com/william-monroy/SemanaTec1001/blob/main/assets/FS1.png)
+[![primeros_pasos_2](https://i.postimg.cc/2LD9M12r/FS2.png)](https://github.com/william-monroy/SemanaTec1001/blob/main/assets/FS2.png)
+[![primeros_pasos_2](https://i.postimg.cc/ph81sfQs/FS3.png)](https://github.com/william-monroy/SemanaTec1001/blob/main/assets/FS3.png)
 
 ### Inicio
-![iamgen](https://i.postimg.cc/yWmb9T8d/Home.png)
+[![inicio](https://i.postimg.cc/yWmb9T8d/Home.png)](https://github.com/william-monroy/SemanaTec1001/blob/main/assets/Home.png)
 
 ### Reportes de Fuga
-![iamgen](https://i.postimg.cc/n9GSJnP7/R1.png)
-![iamgen](https://i.postimg.cc/hfK307X0/R2.png)
+[![reporte_1](https://i.postimg.cc/n9GSJnP7/R1.png)](https://github.com/william-monroy/SemanaTec1001/blob/main/assets/R1.png)
+[![reporte_2](https://i.postimg.cc/hfK307X0/R2.png)](https://github.com/william-monroy/SemanaTec1001/blob/main/assets/R2.png)
 
 
 
